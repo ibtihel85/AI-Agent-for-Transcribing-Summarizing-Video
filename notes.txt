@@ -1,5 +1,0 @@
-conda activate video_summarizer
-Whisper is an automatic speech recognition (ASR) system developed by OpenAI.
-ffmpeg is a tool for processing audio and video
-huggingface transformers
-moviepy
